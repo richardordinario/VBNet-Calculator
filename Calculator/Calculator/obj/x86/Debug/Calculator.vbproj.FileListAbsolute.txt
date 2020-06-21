@@ -1,0 +1,9 @@
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\richa\Desktop\Sci_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
